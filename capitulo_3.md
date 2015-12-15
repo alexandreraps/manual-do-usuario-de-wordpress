@@ -22,7 +22,7 @@ Além da edição de página visual, também temos a edição de texto, onde voc
 
 ### Adicionando fotos
 
-Se você quiser adicionar fotos a sua página, basta clicar em Adicionar Mídia, logo acima da caixa de texto principal.
+Se você quiser adicionar fotos a sua página, basta clicar em **Adicionar Mídia**, logo acima da caixa de texto principal.
 
 ![](wp_config_galeria_fotos.png)
 
@@ -58,7 +58,7 @@ Antes de publicar, você deve escolher uma categoria na sessão Categorias, se e
 
 Uma galeria de fotos deve ser adicionada ao site/blog quando há a necessidade de adicionar uma quantidade grande de imagens em um post ou uma página do site, com uma galeria as imagens ficam mais organizadas e facilita na visualização para os visitantes.
 
-O WordPress possui uma forma de adicionar galeria de imagens nativa na plataforma, a primeira coisa que precisamos fazer é editar ou criar a página onde deve ser adicionada a galeria, depois clique no botão Adicionar Mídia que está localizado na parte superior da área de texto, esse é o mesmo processo para se adicionar uma foto apenas.
+O WordPress possui uma forma de adicionar galeria de imagens nativa na plataforma, a primeira coisa que precisamos fazer é editar ou criar a página onde deve ser adicionada a galeria, depois clique no botão **Adicionar Mídia** que está localizado na parte superior da área de texto, esse é o mesmo processo para se adicionar uma foto apenas.
 
 ![](wp_config_galeria_fotos.png)
 
@@ -66,7 +66,7 @@ Para criar sua galeria é possível colocar fotos novas que estão no computador
 
 ![](wp_config_galeria_fotos_1.png)
 
-Escolha todas as fotos a serem inseridas na galeria e clique no botão Criar Galeria, em seguida deve-se configurar o comportamento da galeria de fotos, podemos escolher a ordem das fotos, para isso basta arrastá-las, pode-se escolher o número de colunas que a galeria irá ter e também adicionar um link para as fotos.
+Escolha todas as fotos a serem inseridas na galeria e clique no botão **Criar Galeria**, em seguida deve-se configurar o comportamento da galeria de fotos, podemos escolher a ordem das fotos, para isso basta arrastá-las, pode-se escolher o número de colunas que a galeria irá ter e também adicionar um link para as fotos.
 
 ![](wp_config_galeria_fotos_2.png)
 
