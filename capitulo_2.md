@@ -1,4 +1,4 @@
-# **Login e configurações iniciais**
+# Login e configurações iniciais
 
 Em primeiro lugar, você precisa acessar a área administrativa do seu site, para isso você deve digitar o endereço:
 
@@ -8,7 +8,7 @@ Esse endereço será fornecido quando você receber o acesso para a área admini
 
 ![](wp_login.png)
 
-Digite o nome de usuário e senha, e depois clique no botão Login.
+Digite o nome de usuário e senha, e depois clique no botão **Login**.
 
 Ao realizar o login, você estará dentro da página administrativa do seu site, a página irá parecer da seguinte forma:
 
