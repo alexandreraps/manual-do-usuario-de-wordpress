@@ -55,3 +55,4 @@ Esse modo de exibir as URL's não facilita em nada para os visitantes e não inf
 Para modificar a estrutura dos links permanentes já no Painel do WordPress vá em **Configurações > Links Permanentes**.
 
 Na página a seguir será exibido diversas possibilidades de padrões de configuração dos links, temos as opções comuns e para os usuários mais avançados temos a opção de Estrutura Personalizada.
+
