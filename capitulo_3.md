@@ -68,3 +68,15 @@ Escolha todas as fotos a serem inseridas na galeria e clique no botão Criar Gal
 
 ![](wp_config_galeria_fotos_2.png)
 
+Após feitas as configurações da galeria clique no botão “**Inserir Galeria**”, depois salve a página/post, se alguma alteração for necessária basta acessar a página e clicar em cima da galeria.
+
+### Adicionando vídeos
+
+Para adicionar vídeos em suas páginas/posts de sites como Youtube ou Vimeo basta copiar o iframe do vídeo e adicionar na página/post desejado.
+
+![](wp_config_add_videos2.png)
+
+Cole o código iframe na página como mostra a imagem abaixo.
+
+![](wp_config_add_videos.png)
+
