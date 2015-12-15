@@ -2,7 +2,7 @@
 
 ### O que é o Wordpress?
 
-O Wordpress é um CMS (Content Management System), ou simplesmente Sistema de Gerenciamento de Conteúdo), criado inicialmente para ser um serviço de blogs, cresceu muito e acabou se tornando em pouco tempo uma grande ferramenta não só para manter um blog, mas sendo amplamente adotado para gerenciamento de sites até lojas online.
+O Wordpress é um CMS (**Content Management System**), ou simplesmente Sistema de Gerenciamento de Conteúdo), criado inicialmente para ser um serviço de blogs, cresceu muito e acabou se tornando em pouco tempo uma grande ferramenta não só para manter um blog, mas sendo amplamente adotado para gerenciamento de sites até lojas online.
 
 ### Vantagens
 
