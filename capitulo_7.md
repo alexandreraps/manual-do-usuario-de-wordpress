@@ -4,7 +4,7 @@
 
 ![](WP-Optimize-Plugin.jpg)
 
-Existem muitas formas para otimizar o seu site/blog em WordPress, otimizar um blog/site é importante pois faz com que o blog/site tenha um carregamento rápido, tanto para o SEO (Otimização de Sites), quanto para leitores que em muitos casos não possuem uma boa conexão de internet.
+Existem muitas formas para otimizar o seu site/blog em WordPress, otimizar um blog/site é importante pois faz com que o blog/site tenha um carregamento rápido, tanto para o SEO (**Otimização de Sites**), quanto para leitores que em muitos casos não possuem uma boa conexão de internet.
 
 O plugin **WP - Optimize** é uma ótima ferramenta para fazer a otimização do seu site/blog em WordPress.
 
@@ -47,7 +47,8 @@ define('AUTOSAVE_INTERVAL', 220);
 
 ### Endereço do Blog e Endereço do Site
 
-Por padrão essas duas inscrições não estão inclusas no wp-config.php, porém, adicionando ambas conseguimos melhorar bastante o desempenho do site/blog. Quando incluímos essas duas inscrições conseguimos uma redução no número de consultas ao banco de dados conseguindo assim, uma melhora no desempenho do site/blog. Essas configurações devem coincidir com as especificadas no painel do WordPress, abaixo um exemplo (não incluir a barra no final da URL)
+Por padrão essas duas inscrições não estão inclusas no wp-config.php, porém, adicionando ambas conseguimos melhorar bastante o desempenho do site/blog. Quando incluímos essas duas inscrições conseguimos uma redução no número de consultas ao banco de dados conseguindo assim, uma melhora no desempenho do site/blog. 
+Essas configurações devem coincidir com as especificadas no painel do WordPress, abaixo um exemplo (não incluir a barra no final da URL)
 
 define('WP_HOME', 'http://seusite.com');
 define('WP_SITEURL', 'http://seusite.com');
