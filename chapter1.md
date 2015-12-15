@@ -32,7 +32,7 @@ Em **Step 4.** Complete the task Visualize e anote os valores de hostname, usern
 
 ###Configurando o banco de dados do WordPress
 
-Abra o arquivo WP-config-sample.php com um editor de texto a sua escolha, será exibido o código fonte do arquivo, nesse momento é necessário fazer algumas modificações como mostra a figura abaixo:
+Abra o arquivo **WP-config-sample.php** com um editor de texto a sua escolha, será exibido o código fonte do arquivo, nesse momento é necessário fazer algumas modificações como mostra a figura abaixo:
 
 ![](inst05.jpg)
 
