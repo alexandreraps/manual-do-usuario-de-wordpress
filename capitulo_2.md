@@ -1,4 +1,4 @@
-# Login e configurações iniciais
+# **Login e configurações iniciais**
 
 Em primeiro lugar, você precisa acessar a área administrativa do seu site, para isso você deve digitar o endereço:
 
