@@ -18,7 +18,7 @@ Para apagar permanentemente, basta ir na guia Lixo, e clicar em **Excluir Perman
 
 ### Criar/editar categorias
 
-Para editar as categorias que você criou basta ir a aba Post > Categorias, lá você pode editar todas as configurações das categorias e criar novas.Para criar páginas fixas, na aba **Páginas**, clique em **Adicionar Nova**. O procedimento é semelhante ao de Post com a exceção de que páginas fixas não pertencem a categorias.
+Para editar as categorias que você criou basta ir a aba **Post > Categorias**, lá você pode editar todas as configurações das categorias e criar novas.Para criar páginas fixas, na aba **Páginas**, clique em **Adicionar Nova**. O procedimento é semelhante ao de Post com a exceção de que páginas fixas não pertencem a categorias.
 
 ![](gerenciar_cat2.jpg)
 
