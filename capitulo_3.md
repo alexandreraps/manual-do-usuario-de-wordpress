@@ -12,7 +12,9 @@ Para criar um novo Post, clique na aba **Post** no menu, em seguida clique em **
 
 O primeiro campo é o título do Post. Este título é o título de sua página como ela aparecerá em seu site. O link de acesso (permalink) também será gerado a partir deste título.
 
-Se você tem um site em vários idiomas, você encontrará um campo para cada idioma, no entanto, a ligação será única no idioma que adotou como o idioma padrão. Nos campos abaixo, você pode inserir o conteúdo da sua página, os textos, imagens, vídeos, etc.
+Se você tem um site em vários idiomas, você encontrará um campo para cada idioma, no entanto, a ligação será única no idioma que adotou como o idioma padrão. 
+
+Nos campos abaixo, você pode inserir o conteúdo da sua página, os textos, imagens, vídeos, etc.
 
 ![](wp_config_post1.png)
 
