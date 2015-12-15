@@ -37,9 +37,10 @@ Para sites em WordPress que serão Blogs é recomendado desmarcar a opção de M
 ### Função Novos Usuários
 
 Se você decidiu que seu site é do tipo que precisa do registro de usuários pode definir aqui qual "Função" deve ser aplicada a ele quando se registrar em seu site.
-Fuso Horário
 
-Alterar o Fuso horário é importante para garantir que seus posts/artigos entre outras funções estejam de acordo  com o fuso horário de seus visitantes e o seu também, o fuso horário do Brasil é o UTC-3.
+### Fuso Horário
+
+Alterar o Fuso horário é importante para garantir que seus posts/artigos entre outras funções estejam de acordo  com o fuso horário de seus visitantes e o seu também, o fuso horário do Brasil é o **UTC-3**.
 
 ### Formato de Data e Hora
 
@@ -47,12 +48,10 @@ O formato de data e hora deve ser alterado para que os visitantes visualizem da 
 
 ### Links Permanentes
 
-Por padrão o WordPress cria para cada postagem do seu blog uma URL usando
-caracteres que não dizem nada sobre o conteúdo das páginas, ele usa por padrão o link
-http://www.nome_do_blog.com/?p=123
+Por padrão o WordPress cria para cada postagem do seu blog uma URL usando caracteres que não dizem nada sobre o conteúdo das páginas, ele usa por padrão o link http://www.nome_do_blog.com/?p=123.
 
 Esse modo de exibir as URL's não facilita em nada para os visitantes e não informa nada para os mecanismos de busca.
 
-Para modificar a estrutura dos links permanentes já no Painel do WordPress vá em
-Configurações > Links Permanentes.
+Para modificar a estrutura dos links permanentes já no Painel do WordPress vá em **Configurações > Links Permanentes**.
+
 Na página a seguir será exibido diversas possibilidades de padrões de configuração dos links, temos as opções comuns e para os usuários mais avançados temos a opção de Estrutura Personalizada.
