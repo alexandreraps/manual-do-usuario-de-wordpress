@@ -90,3 +90,16 @@ Você pode configurar o Akismet para que ele exclua automaticamente comentários
 Formulários de contato são um meio muito fácil e prático para que seu publico ou seus consumidores entrem em contato com você, através de seu site. O Contact Form 7 é um Plugin que permite a criação de formulários de contato para seu site/blog.
 
 ### Social Count Plus
+
+![](social_count_plus.jpg)
+
+O plugin Social Count Plus é um plugin que serve para exibir contadores de assinantes de feeds, páginas de fãs no Facebook, seguidores do Twitter e também conta o número de posts e comentários de um blog.
+O plugin possui opções de mostrar ou não determinado contador e conta com quatro designs, sendo dois horizontais e dois verticais, arredondados ou quadrados.
+Também possui opções avançadas como shortcode, eles é possível mostrar contadores dentro de post ou páginas.
+
+### Wordfence Security
+
+![](wordfence-preview.png)
+
+Esse plugin é essencial, pois é um plugin de segurança. Ele rastreia os códigos do wordpress e descobre se houve alguma alteração suspeita, fazendo a substituição pelo código correto.
+
