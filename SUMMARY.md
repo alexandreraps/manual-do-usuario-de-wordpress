@@ -8,5 +8,5 @@
 * [Capítulo 5 | Plugins](capitulo_5.md)
 * [Capítulo 6 | Aplicativo WordPress](capitulo_6.md)
 * [Capítulo 7 | Como otimizar o WordPress](capitulo_7.md)
-* [Capítulo 8](capitulo_8.md)
+* [Capítulo 8 | Outras alternativas para otimização](capitulo_8.md)
 
