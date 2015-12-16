@@ -7,6 +7,6 @@
 * [Capítulo 4 | Configurações](capitulo_4.md)
 * [Capítulo 5 | Plugins](capitulo_5.md)
 * [Capítulo 6 | Aplicativo WordPress](capitulo_6.md)
-* [Capítulo 7](capitulo_7.md)
+* [Capítulo 7 | Como otimizar o WordPress](capitulo_7.md)
 * [Capítulo 8](capitulo_8.md)
 
