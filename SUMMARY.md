@@ -2,7 +2,7 @@
 
 * [Introdução](README.md)
 * [Capítulo 1 | Como Instalar](chapter1.md)
-* [Capítulo 2](capitulo_2.md)
+* [Capítulo 2 | Login e configurações iniciais](capitulo_2.md)
 * [Capítulo 3](capitulo_3.md)
 * [Capítulo 4](capitulo_4.md)
 * [Capítulo 5](capitulo_5.md)
